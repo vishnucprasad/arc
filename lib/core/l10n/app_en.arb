@@ -1,0 +1,12 @@
+{
+  "@@author": "Vishnu C Prasad",
+  "@@locale": "en",
+  "appLanguage": "English",
+  "@appLanguage": {
+    "description": "The language of the application."
+  },
+  "appName": "Arc",
+  "@appName": {
+    "description": "The official name of the application, displayed on the home screen, splash screen, and other prominent places."
+  }
+}
